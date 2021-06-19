@@ -1,0 +1,31 @@
+{
+  "name": "final-year-project-2020-21",
+  "version": "1.0.0",
+  "description": "A Hashi Game built using PixiJS and Electron",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "",
+  "keywords": [
+    "Electron",
+    "Pixijs",
+    "Pixi",
+    "Pixijs.com"
+  ],
+  "author": "Aidan Smithers",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^1.8.4"
+  },
+  "dependencies": {
+    "@pixi/core": "^5.3.7",
+    "@pixi/loaders": "^5.3.7",
+    "@pixi/ticker": "^5.3.7",
+    "@pixi/utils": "^5.3.7",
+    "electron-debug": "^1.5.0",
+    "pixi-display": "^1.1.1",
+    "pixi-sound": "^3.0.5",
+    "pixi.js": "^4.7.3"
+  }
+}
